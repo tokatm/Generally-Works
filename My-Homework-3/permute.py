@@ -104,8 +104,8 @@ print()
 print("Convert to bin of E: ",convert2Bin(e))
 print("Result of E        : ", permutation(convert2Bin(e), EXP_E, 48))
 print()
-print("Convert to bin of E: ",convert2Bin(p))
-print("Result of E        : ", permutation(convert2Bin(p), P, 32))
+print("Convert to bin of P: ",convert2Bin(p))
+print("Result of P        : ", permutation(convert2Bin(p), P, 32))
 
 
 
